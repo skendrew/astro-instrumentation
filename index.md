@@ -10,3 +10,8 @@ Software development is an integral part of many aspects of instrumentation: per
 ### Who is this guide for?
 
 These notes are aimed at Bachelors, Masters or PhD students in physics or astronomy, who are working or are interested in working in the hardware side of astronomy.
+
+
+### Sections
+
+[What does instrumentation work look like?](instrumentation-what.md)
