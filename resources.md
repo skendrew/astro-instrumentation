@@ -30,4 +30,7 @@ https://www.esa.int/About_Us/Careers_at_ESA/Student_Internships2 - Masters stude
 [Network of Young Researchers in Instrumentation for Astrophysics](http://astro-instrumentation.blogspot.com/p/about-us.html) (Includes a list of instrumentation institutes in Europe and upcoming workshops in the field, along with other useful information)
 
 ### Prizes and Awards in Astronomical Instrumentation
-SPIE Scholarship Program 
+[SPIE Scholarship Program](https://spie.org/membership/student-members/scholarships)
+[Royal Astronomical Society Jackson-Gwilt Medal](https://ras.ac.uk/awards-and-grants/awards/2275-jackson-gwilt-medal)
+[American Astronomical Society Joseph Weber Award](https://aas.org/grants-and-prizes/joseph-weber-award-astronomical-instrumentation)
+[Astronomical Society of Australia Peter McGregor Prize](http://asa.astronomy.org.au/pmp.php)

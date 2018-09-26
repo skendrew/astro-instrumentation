@@ -16,5 +16,8 @@ These notes are aimed at Bachelors, Masters or PhD students in physics or astron
 
 [What does instrumentation work look like?](instrumentation-what.md)
 
-
 [The skills of a successful instrumentatlist](instrumentation-skills.md)
+
+[Links and Resources](resources.md)
+
+[Contributors to this guide](contributors.md)
