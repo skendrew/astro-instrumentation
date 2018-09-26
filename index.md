@@ -1,7 +1,7 @@
 
 ## Introduction
 
-Career advice in astronomy & astrophysics for postgraduate students is often aimed at those working on astronomy research projects, wanting work in academic research. The career path in instrumentation work shares some commonalities with a career in astronomy research, but provides a wider range of options and possibly different criteria for success. In this guide, bla bla.
+Career advice in astronomy & astrophysics for postgraduate students is often aimed at those working on astronomy research projects, wanting work in academic research. The career path in instrumentation work shares some commonalities with a career in astronomy research, but provides a wider range of options and possibly different criteria for success. In this guide we capture some collective wisdom of junior and somewhat more aged astronomer-instrumentalists to provide guidance for students interested in a career in instrument development for astronomy.
 
 ### What about software?
 
@@ -20,4 +20,18 @@ These notes are aimed at Bachelors, Masters or PhD students in physics or astron
 
 [Links and Resources](resources.md)
 
-[Contributors to this guide](contributors.md)
+Biographies
+
+### Contributors to this guide
+
+Sarah Kendrew (European Space Agency, Baltimore)
+
+Tom Donaldson (Space Telescope Science Institute, Baltimore)
+
+Briana Indahl (University of Texas at Austin)
+
+Keira Brooks (Space Telescope Science Institute, Baltimore)
+
+Shui Hung Kwok (W.M. Keck Observatory)
+
+Bruce Macintosh (Stanford University)

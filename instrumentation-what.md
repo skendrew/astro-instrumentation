@@ -31,6 +31,8 @@ Prior to delivery to an observatory, instrumentation projects will go through di
 
 These structures and administrative requirements tend to be more formalised in space missions than for ground-based instrumentation - though going into the 30-m class telescope era, the ground-based community is adopting a more industry-style approach to projects as well.
 
+An especially exciting time to work on an instrument is commissioning, when an instrument is installed on the telescope (or launched into space) and undergoes its first on-sky or in-orbit tests. Commissioning can be a very challenging period for a project, requiring long working hours in challenging conditions - unexpected results, software problems and on-the-fly troubleshooting are very common. But it's also extremely gratfiying to participate in the first-ever astrophyical observations with a new facility, and participating in a commissioning run during your studies is likely to be a very exciting experience. 
+
 ### What kind of software is needed in an astronomical observatory?
  
 As mentioned, software is an integral part of science. From controlling the telescope and instruments to reducing data different types of software skills are required. While traditionally astronomers define the requirements and describe use cases and software developers implement and maintain the final products, these roles have evolved thanks the popularity to high level languages such as Python and Matlab, which are either open source or easily accessible through educational licensing. Astronomers and instrument scientists are producing more and more software that are part of the daily operations.
