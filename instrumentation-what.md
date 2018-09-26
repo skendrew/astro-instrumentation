@@ -30,3 +30,24 @@ If your project is part of a large instrumentation project or space mission, you
 Prior to delivery to an observatory, instrumentation projects will go through different types of reviews, which require specific milestones to be reached, e.g. the Preliminary Design Review, Technical Readiness Review, Final Design Review. During these reviews the all aspects of the project will be reviewed by a board of experts. As a PhD student you may be able to participate or present in such reviews; while daunting, these are excellent opportunities to learn more about the way in which large projects are managed.
 
 These structures and administrative requirements tend to be more formalised in space missions than for ground-based instrumentation - though going into the 30-m class telescope era, the ground-based community is adopting a more industry-style approach to projects as well.
+
+### What kind of software is needed in an astronomical observatory?
+ 
+As mentioned, software is an integral part of science. From controlling the telescope and instruments to reducing data different types of software skills are required. While traditionally astronomers define the requirements and describe use cases and software developers implement and maintain the final products, these roles have evolved thanks the popularity to high level languages such as Python and Matlab, which are either open source or easily accessible through educational licensing. Astronomers and instrument scientists are producing more and more software that are part of the daily operations.
+ 
+There are various areas that may be of interest to astronomers who want to do more software:
+* Observation planning, specifically finding target coordinates and guide stars
+* Observation scheduling, target of opportunity insertion into queues
+* Data archiving, mostly database related work, but also visualization (quick look)
+* Instrument software customization, automation and improvement of instrument operations
+* Algorithm development for data reduction pipelines
+* Educational demo software for public outreach activities
+ 
+Other software not traditionally done by astronomers includes:
+* Telescope and instrument control system, including servo mechanisms
+* Web applications, front ends for many data sources
+* Configuration management
+* Development of APIs for different layers of software
+* Optimization, use of GPU and parallelization
+
+
