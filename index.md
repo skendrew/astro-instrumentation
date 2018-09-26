@@ -15,3 +15,4 @@ These notes are aimed at Bachelors, Masters or PhD students in physics or astron
 ### Sections
 
 [What does instrumentation work look like?](instrumentation-what.md)
+[The skills of a successful instrumentatlist](instrumentation-skills.md)
