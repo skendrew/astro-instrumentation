@@ -6,7 +6,7 @@ While a PhD in instrumentation or a project with an instrumentation component, m
 
 Many university departments do also have members of their physics and astronomy faculty leading instrumentation research and development. These positions provide a lot of opportunity to work with, mentor and train junior scientists, build a group, be part of a stimulating academic environment, and form cross-disciplinary links with other fields. Conversely, you'll be subject to the same demands as your faculty colleagues: securing grant funding for equipment and salaries of your group members, teaching, committee memebrships, presenting at conferences, and publishing in peer-reviewed journals. Note that because laboratory research relies on hardware, running a successful instrumentation research group can require more funding than other areas of research.
 
-You'll find a list of university departments with a strong instrumentation presence in the [Resources](resources.md) section of these pages.
+You'll find a list of university departments with a strong instrumentation presence in the [Resources](resources.md) section of these pages. Academic and observatory jobs typically get advertised on the [AAS job register](https://jobregister.aas.org/). 
 
 
 ### Where are the jobs?

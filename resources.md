@@ -14,7 +14,7 @@ Short courses at the SPIE Astronomical Telescopes
 
 [Summer School for Adaptive Optics](http://cfao.ucolick.org/aosummer.php)
 
-[University of Rochester, Institute of Optics, Summer Short Course Series](http://www.hajim.rochester.edu/optics/summer/index.html)
+[University of Rochester, Institute of Optics](http://www.hajim.rochester.edu/optics/summer/index.html) Summer Short Course Series
 
 [Keck Visiting Scholars program (for graduate students/postdocs)](https://www2.keck.hawaii.edu/inst/KeckScholar/keck-staff.html)
 
@@ -26,9 +26,9 @@ Short courses at the SPIE Astronomical Telescopes
 
 [Northrop Grumman](http://www.northropgrumman.com/Careers/Students-Entry-Level/Pages/Internships.aspx)
 
-[NASA AS&ASTAR - must be in first 2 years of grad school, Need to find NASA advisor](https://www.nasa.gov/offices/education/seap-abstracts-AS-ASTAR.html)
+[NASA AS&ASTAR](https://www.nasa.gov/offices/education/seap-abstracts-AS-ASTAR.html) - must be in first 2 years of grad school, Need to find NASA advisor
 
-[Akamai Internship Program  - college students from Hawaii](https://akamaihawaii.org/internships/)
+[Akamai Internship Program](https://akamaihawaii.org/internships/) - college students from Hawaii
 
 [ESA Student Internships](https://www.esa.int/About_Us/Careers_at_ESA/Student_Internships2) - Masters students. Astronomy establishments are ESTEC and ESAC; also covers Earth observation and all areas of ESA activity. Applicants should be nationals of an ESA member or associate member state (e.g. Canada)
 
