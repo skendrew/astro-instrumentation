@@ -39,3 +39,7 @@ Keira Brooks (Space Telescope Science Institute, Baltimore)
 Shui Hung Kwok (W.M. Keck Observatory)
 
 Bruce Macintosh (Stanford University)
+
+### About
+
+This guide was started at the hack day at the 2018 [SPIE](http://www.spie.org) conference on Astronomical Telescopes and Instrumentation in Austin, TX (June 2018). The website was created at the 2018 [.Astronomy conference](http://www.dotastronomy.com) in Baltimore, MD (September 2018).
