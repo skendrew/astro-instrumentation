@@ -2,6 +2,8 @@
 
 ## Graduate programs in instrumentation
 
+**Note: applications and admissions procedures to graduate school/PhD programs vary a lot between coutries and even within institutes in a country. Always research the procedures specific to your country.**
+
 When looking for a graduate program (Masters or PhD), there are several dedicated Astronomical Instrumentation programs and Optics programs that have astronomy-focused projects. However many astrophysics programs may not advertise instrumentation but have an instrumentation group or project. You may need to do some additional research to see if a program has any instrumentation projects, or if you can work with engineering departments. Projects listed on websites may be out of date so it's best to email the PI directly (especially for smaller departments). In the email you should ask not only the status of the project you are interested in working on but also if they are currently taking students. Keep in mind that projects in astronomy can sometimes take 10+ years so it is unlikely you will experience every stage of an instrument project from design to commissioning. 
 
 Things to ask graduate programs/potential advisors:
