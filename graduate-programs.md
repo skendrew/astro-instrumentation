@@ -37,36 +37,61 @@ Note that this list is most likely not complete....
 
 #### North America
 University of Arizona 
+
 University of Texas at Austin (do not need physics GRE) 
+
 University of Florida
+
 Texas A&M University 
+
 Johns Hopkins University
-University of Hawaii 
+
+University of Hawaii
+
 University of Wisconsin-Madison
+
 University of Washington
+
 University of Colorado - Boulder
+
 University of Virginia 
+
 Penn State University (no application fee)
+
 University of Michigan - Ann Arbor 
+
 Ohio State University 
+
 University of Illinois at Urbana-Champaign
+
 UCLA 
+
 University of Rochester 
+
 Arizona State University 
+
 Caltech 
-UCLA
+
 University of Toronto/Dunlap Institute
+
 University of Victoria
+
 Herzberg Institute for Astrophysics
+
 University of Montréal
 
-####Australia 
-Sydney University
-Australian National University, Canberra
-Swinburne 
-Australian Astronomical Observatory (AAO)
+#### Australia
 
-####South Africa 
+Sydney University
+
+Australian National University, Canberra
+
+Swinburne 
+
+Australian Astronomical Optics (AAO)
+
+#### South Africa 
+
 South African Astronomical Observatory (SAAO)
 
 #### Japan
@@ -74,22 +99,35 @@ South African Astronomical Observatory (SAAO)
 #### China 
 
 #### India 
+
 IUCAA 
 
 #### Europe
 For a list of institutions in Europe see the [NYRIA](http://astro-instrumentation.blogspot.com/p/about-us.html) website’s link called [Related Groups](http://astro-instrumentation.blogspot.com/p/other-groups.html). In addition: 
 
 Dublin Institute for Advanced Studies (DIAS), Ireland
+
 Maynooth University, Ireland
+
 NUI Galway, Ireland
+
 University of Glasgow, UK
+
 University of Manchester, UK
+
 Durham University, UK
+
 Imperial College, UK
+
 Chalmers University, Göteborg, Sweden
+
 Lund University, Sweden
+
 University of Copenhagen, Denmark
+
 ETH Zürich, Switzerland
+
 Geneva Observatory, Switzerland
+
 University of Porto, Portugal
 
