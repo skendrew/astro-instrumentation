@@ -18,6 +18,8 @@ These notes are aimed at Bachelors, Masters or PhD students in physics or astron
 
 [The skills of a successful instrumentatlist](instrumentation-skills.md)
 
+[Graduate programs in instrumentation](graduate-programs.md)
+
 [Employment potential](employment.md)
 
 [Links and Resources](resources.md)
