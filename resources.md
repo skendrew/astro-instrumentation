@@ -20,6 +20,20 @@ Short courses at the SPIE Astronomical Telescopes
 
 [NYRIA Workshop (Network of Young Researchers in Instrumentation for Astrophysics)](http://astro-instrumentation.blogspot.com/p/next-meeting-workshop-2017.html)
 
+
+### Software-oriented conferences, events and workshops
+
+[Python in Astronomy](http://openastronomy.org/pyastro/)
+
+Astro Hack Week ([2019](http://astrohackweek.org/2019/))
+
+[.Astronomy](http://www.dotastronomy.com)
+
+AstroInformatics ([2019](http://astroinformatics2019.org/))
+
+ADASS ([2019](https://www.adass2019.nl/))
+
+
 ### Instrumentation Internships
 
 [Ball Aerospace](http://www.ball.com/aerospace/about-ball-aerospace/careers/college-internships)
