@@ -9,5 +9,5 @@ Much of this webpage was written during the Hack Day at the SPIE Astronomical Te
 
 ## Author
 
-This website was built and maintained by Sarah Kendrew, European Space Agency/Space Telescope Science Institute. Contributors to the text are listed under ``Authors''. 
+This website was built and maintained by Sarah Kendrew, European Space Agency/Space Telescope Science Institute. Contributors to the text are listed under 'Contributors'. 
 
