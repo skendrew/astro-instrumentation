@@ -40,6 +40,8 @@ Note that this list is most likely not complete....
 #### North America
 University of Arizona 
 
+University of California, Santa Barbara
+
 University of Texas at Austin (do not need physics GRE) 
 
 University of Florida
